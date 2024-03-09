@@ -1,0 +1,32 @@
+{
+  "name": "chloe-faker-data",
+  "version": "1.0.0",
+  "description": "Generates fake data using Faker Random User API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:data": "node src/index.js"
+  },
+  "keywords": [
+    "chloe-faker-data",
+    "faker",
+    "dummy",
+    "utility",
+    "generator",
+    "noname"
+  ],
+  "author": "chloebreezee",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chloebreezee/chloe-faker-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chloebreezee/chloe-faker-data/issues"
+  },
+  "homepage": "https://github.com/chloebreezee/chloe-faker-data#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chloe-faker-data": "1.0.0"
+  }
+}
